@@ -21,7 +21,7 @@ Initialize cliPlugin using a custom colorscheme/config file.
 
 cliPlugin.init(config);
 ```
-Initialize cliPlugin using a custom colorscheme/config file.
+Initialize cliPlugin using a cutom colorscheme/config file. 
 
 cliPlugin.init(config);
 Config accepts following properties:
