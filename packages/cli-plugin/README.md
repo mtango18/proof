@@ -1,7 +1,7 @@
 ## Usage
 
 The cli-plugin allows users to work with the command line interface for their web applications. 
-
+ 
 Features for this plugin include: 
 
 1) Configurable commands
@@ -9,10 +9,12 @@ Features for this plugin include:
 3) History of used commands 
 
 ```
+
 ## How to install with npm
 
 npm install cli-plugin
 ```
+
 ## Setup
 
 Initialize cliPlugin using a custom colorscheme/config file.
