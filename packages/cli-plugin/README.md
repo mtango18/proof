@@ -8,9 +8,9 @@ Features for this plugin include:
 2) Configurable Color Schemes
 3) History of used commands 
 
-```
 
-## How to install with npm
+
+## Install 
 
 npm install cli-plugin
 ```
@@ -20,7 +20,7 @@ npm install cli-plugin
 Initialize cliPlugin using a custom colorscheme/config file.
 
 cliPlugin.init(config);
-```
+
 Initialize cliPlugin using a cutom colorscheme/config file. 
 
 cliPlugin.init(config);
@@ -38,6 +38,7 @@ cliPlugin.bind('list', function () {
   cliPlugin.print('<p>items on the shopping list:</p>');
   cliPlugin.print('<ul><li>milk</li><li>bacon</li><li>eggs</li></ul>');
 });
+
 Useful functions
 Use cliPlugin.print(text) command to print text on the screen, accepts html.
 
